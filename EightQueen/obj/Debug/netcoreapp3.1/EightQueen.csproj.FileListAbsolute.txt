@@ -1,0 +1,13 @@
+C:\GitProject\八皇后\EightQueen\EightQueen\bin\Debug\netcoreapp3.1\EightQueen.exe
+C:\GitProject\八皇后\EightQueen\EightQueen\bin\Debug\netcoreapp3.1\EightQueen.deps.json
+C:\GitProject\八皇后\EightQueen\EightQueen\bin\Debug\netcoreapp3.1\EightQueen.runtimeconfig.json
+C:\GitProject\八皇后\EightQueen\EightQueen\bin\Debug\netcoreapp3.1\EightQueen.runtimeconfig.dev.json
+C:\GitProject\八皇后\EightQueen\EightQueen\bin\Debug\netcoreapp3.1\EightQueen.dll
+C:\GitProject\八皇后\EightQueen\EightQueen\bin\Debug\netcoreapp3.1\EightQueen.pdb
+C:\GitProject\八皇后\EightQueen\EightQueen\obj\Debug\netcoreapp3.1\EightQueen.csprojAssemblyReference.cache
+C:\GitProject\八皇后\EightQueen\EightQueen\obj\Debug\netcoreapp3.1\EightQueen.csproj.CoreCompileInputs.cache
+C:\GitProject\八皇后\EightQueen\EightQueen\obj\Debug\netcoreapp3.1\EightQueen.AssemblyInfoInputs.cache
+C:\GitProject\八皇后\EightQueen\EightQueen\obj\Debug\netcoreapp3.1\EightQueen.AssemblyInfo.cs
+C:\GitProject\八皇后\EightQueen\EightQueen\obj\Debug\netcoreapp3.1\EightQueen.dll
+C:\GitProject\八皇后\EightQueen\EightQueen\obj\Debug\netcoreapp3.1\EightQueen.pdb
+C:\GitProject\八皇后\EightQueen\EightQueen\obj\Debug\netcoreapp3.1\EightQueen.genruntimeconfig.cache
